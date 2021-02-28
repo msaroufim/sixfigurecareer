@@ -1,6 +1,6 @@
 # Six Figure Career
 
-So you want a job in Machine Learning? Do we have the package for you
+So you want a job in Machine Learning? Do we have the package for you!
 
 ## Usage
 
@@ -10,7 +10,9 @@ So you want a job in Machine Learning? Do we have the package for you
 
 You don't need even need to install `tensorflow`, `pytorch`. Let's be honest you never figured out how to actually install `CUDA`. But just between in us, In case it comes up in a tech screen you can just select `GPU` from the notebook settings in Google Collab and congrats you are now a GPU programmer!
 
-Who reads papers nowadays or open source code for that matter? In the old days people actually ran `pip install some_transformer`, looked at the usage guide and genuinely tried to solve a problem. *GASP* Can you imagine? People coming up with their own datasets? Their own modifications? Their own ideas? Heresy!
+Who reads papers nowadays or open source code for that matter? In the old days people actually ran `pip install some_transformer`, looked at the usage guide and genuinely tried to solve a problem. *GASP*
+
+Can you imagine? People coming up with their own datasets? Their own modifications? Their own ideas? Heresy!
 
 What's the point of it all anyways? All you wanted to do was pad your CV with cookbook tutorials on medium so you could get those sweet dineros. If something broke, you just cracked your knuckles and opened up a Github issue letting the maintainer know that they're not really doing that good of a job.
 
