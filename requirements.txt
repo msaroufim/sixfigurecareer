@@ -4,3 +4,5 @@ torch
 tensorflow
 transformers
 keras
+matplotlib
+seaborn
